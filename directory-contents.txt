@@ -1,0 +1,8 @@
+.
+..
+backend
+directory-contents.txt
+frontend
+fundamentals
+intro-week
+projects
